@@ -1,0 +1,5 @@
+C:\AppZone\logs\CreditClubMiddleware
+C:\inetpub\logs\LogFiles\W3SVC1
+C:\logs\CreditClub.Processor
+C:\logs\CreditClubClientLog
+C:\logs\CreditClubMiddleWare
